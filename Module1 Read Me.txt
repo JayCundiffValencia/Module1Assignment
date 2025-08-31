@@ -1,0 +1,1 @@
+This program is a simple project that creates 2 classes for restaurants with multiple attributes, and test methods to showcase methods in use.
